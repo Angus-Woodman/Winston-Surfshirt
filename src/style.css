@@ -1,0 +1,17 @@
+header{
+  margin: 0px 0px 0px 0px;
+  background-color: #EED013;
+  padding: 10px 10px 10px 80px;
+}
+
+#albumSec{
+  display: flex;
+}
+
+.song{
+  display: flex;
+}
+
+li{
+  margin: 5px 5px 5px 5px;
+}
